@@ -1,0 +1,1138 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-20",
+  "syllabusBaseline": 2026,
+  "releaseStatus": "substantial-draft-not-certified-complete",
+  "sourceVerification": {
+    "main": true,
+    "advanced": true,
+    "ncertComplete": false,
+    "pyqComplete": false
+  },
+  "sources": [
+    {
+      "id": "main26",
+      "title": "JEE Main 2026 · official syllabus",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2025/10/202510311323551056.pdf",
+      "status": "Verified: organic units 13–20"
+    },
+    {
+      "id": "adv26",
+      "title": "JEE Advanced 2026 · official syllabus",
+      "url": "https://jeeadv.ac.in/documents/jee-advanced-2026-syllabus.pdf",
+      "status": "Verified: chemistry pages 5–8"
+    },
+    {
+      "id": "xi-goc",
+      "title": "NCERT XI · Organic Chemistry: Basic Principles",
+      "url": "https://ncert.nic.in/textbook/pdf/kech202.pdf",
+      "status": "Available; exhaustive subsection audit pending"
+    },
+    {
+      "id": "xi-hc",
+      "title": "NCERT XI · Hydrocarbons",
+      "url": "https://ncert.nic.in/textbook/pdf/kech203.pdf",
+      "status": "Available; exhaustive subsection audit pending"
+    },
+    {
+      "id": "xii-halo",
+      "title": "NCERT XII · Haloalkanes and Haloarenes",
+      "url": "https://ncert.nic.in/textbook/pdf/lech201.pdf",
+      "status": "Available; exhaustive subsection audit pending"
+    },
+    {
+      "id": "xii-oh",
+      "title": "NCERT XII · Alcohols, Phenols and Ethers",
+      "url": "https://ncert.nic.in/textbook/pdf/lech202.pdf",
+      "status": "Source retrieval failed; independent source check pending"
+    },
+    {
+      "id": "xii-co",
+      "title": "NCERT XII · Aldehydes, Ketones and Carboxylic Acids",
+      "url": "https://ncert.nic.in/textbook/pdf/lech203.pdf",
+      "status": "Preparation methods spot-checked; full subsection audit pending"
+    },
+    {
+      "id": "xii-n",
+      "title": "NCERT XII · Amines",
+      "url": "https://ncert.nic.in/textbook/pdf/lech204.pdf",
+      "status": "Basicity and selected preparations spot-checked; full subsection audit pending"
+    },
+    {
+      "id": "xii-bio",
+      "title": "NCERT XII · Biomolecules",
+      "url": "https://ncert.nic.in/textbook/pdf/lech205.pdf",
+      "status": "Source retrieval failed; independent source check pending"
+    }
+  ],
+  "knownGaps": [
+    "NCERT headings/subheadings not exhaustively independently mapped",
+    "Full historical Main/Advanced PYQ concept audit not completed",
+    "Some mechanisms remain conceptual summaries rather than electron-arrow structure sequences",
+    "Biomolecule structures are condensed connectivity descriptions, not complete rendered ring diagrams",
+    "Individual reaction source verification is incomplete"
+  ],
+  "chapters": [
+    {
+      "id": "goc",
+      "title": "General Organic Chemistry",
+      "exam": [
+        "JEE Main",
+        "JEE Advanced"
+      ],
+      "coverage": [
+        {
+          "sectionId": "bonding",
+          "heading": "Structure, bonding & representation",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "naming",
+          "heading": "Classification & nomenclature",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "effects",
+          "heading": "Inductive effect, resonance & hyperconjugation",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "intermediates",
+          "heading": "Bond cleavage & intermediates",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "acid-base",
+          "heading": "Acidity, basicity & solvent",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "aromaticity",
+          "heading": "Aromaticity & reaction language",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "traps",
+          "heading": "Exceptions & common reasoning traps",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        }
+      ],
+      "qualityChecks": {
+        "chapterMap": true,
+        "prerequisiteLinks": "not-required",
+        "reactions": "bundled-where-applicable",
+        "trends": "present",
+        "exceptions": "present",
+        "readinessChecklist": 15,
+        "allSyllabusPointsIndividuallyMapped": false,
+        "allNcertSubsectionsAccountedFor": false,
+        "majorPyqsAudited": false,
+        "independentChemistryReview": false
+      },
+      "complete": false
+    },
+    {
+      "id": "isomerism",
+      "title": "Isomerism & Conformations",
+      "exam": [
+        "JEE Main",
+        "JEE Advanced"
+      ],
+      "coverage": [
+        {
+          "sectionId": "structural",
+          "heading": "Structural isomerism",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "geometric",
+          "heading": "Geometrical isomerism",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "optical",
+          "heading": "Chirality & stereochemical relationships",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "conformations",
+          "heading": "Ethane & butane conformations",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "tautomerism",
+          "heading": "Keto–enol recall",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "traps",
+          "heading": "Counting traps",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        }
+      ],
+      "qualityChecks": {
+        "chapterMap": true,
+        "prerequisiteLinks": "present",
+        "reactions": "bundled-where-applicable",
+        "trends": "present",
+        "exceptions": "present",
+        "readinessChecklist": 13,
+        "allSyllabusPointsIndividuallyMapped": false,
+        "allNcertSubsectionsAccountedFor": false,
+        "majorPyqsAudited": false,
+        "independentChemistryReview": false
+      },
+      "complete": false
+    },
+    {
+      "id": "hydrocarbons",
+      "title": "Hydrocarbons",
+      "exam": [
+        "JEE Main",
+        "JEE Advanced"
+      ],
+      "coverage": [
+        {
+          "sectionId": "classification",
+          "heading": "Families & physical properties",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "preparation",
+          "heading": "Preparation methods",
+          "notesPresent": true,
+          "reactions": [
+            "wurtz",
+            "soda-lime",
+            "kolbe-electrolysis",
+            "alkane-reduction",
+            "dehydrohalogenation",
+            "dehydration",
+            "dehalogenation",
+            "alkyne-preparation",
+            "acetylene-calcium",
+            "benzene-trimer"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "alkanes",
+          "heading": "Alkanes: substitution & oxidation",
+          "notesPresent": true,
+          "reactions": [
+            "radical-halogenation",
+            "benzylic-bromination"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "addition",
+          "heading": "Alkenes: addition & cleavage",
+          "notesPresent": true,
+          "reactions": [
+            "alkene-hydrogenation",
+            "hx-addition",
+            "peroxide-hbr",
+            "bromine-addition",
+            "halohydrin",
+            "alkene-hydration",
+            "hydroboration",
+            "baeyer",
+            "ozonolysis",
+            "alkene-cleavage"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "alkynes",
+          "heading": "Alkynes: acidity & addition",
+          "notesPresent": true,
+          "reactions": [
+            "alkyne-lindlar",
+            "alkyne-sodium",
+            "alkyne-hydration",
+            "acetylide-alkylation"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "benzene",
+          "heading": "Benzene & electrophilic aromatic substitution",
+          "notesPresent": true,
+          "reactions": [
+            "nitration",
+            "aromatic-halogenation",
+            "sulfonation",
+            "friedel-alkyl",
+            "friedel-acyl",
+            "sidechain-oxidation"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "traps",
+          "heading": "Reaction-condition traps",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        }
+      ],
+      "qualityChecks": {
+        "chapterMap": true,
+        "prerequisiteLinks": "present",
+        "reactions": "bundled-where-applicable",
+        "trends": "in-notes",
+        "exceptions": "present",
+        "readinessChecklist": 20,
+        "allSyllabusPointsIndividuallyMapped": false,
+        "allNcertSubsectionsAccountedFor": false,
+        "majorPyqsAudited": false,
+        "independentChemistryReview": false
+      },
+      "complete": false
+    },
+    {
+      "id": "haloalkanes",
+      "title": "Haloalkanes & Haloarenes",
+      "exam": [
+        "JEE Main",
+        "JEE Advanced"
+      ],
+      "coverage": [
+        {
+          "sectionId": "classification",
+          "heading": "Classification & C–X bond",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "preparation",
+          "heading": "Preparation & halogen exchange",
+          "notesPresent": true,
+          "reactions": [
+            "alcohol-socl2",
+            "alcohol-hx",
+            "finkelstein",
+            "swarts",
+            "hx-addition",
+            "radical-halogenation",
+            "aromatic-halogenation",
+            "sandmeyer-cl",
+            "sandmeyer-br",
+            "balz-schiemann"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "mechanisms",
+          "heading": "SN1 / SN2 / E1 / E2 decision table",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "reactions",
+          "heading": "Substitution, elimination & organometallic chemistry",
+          "notesPresent": true,
+          "reactions": [
+            "halo-hydrolysis",
+            "dehydrohalogenation",
+            "cyanide",
+            "isocyanide",
+            "nitrite",
+            "silver-nitrite",
+            "ammonolysis",
+            "williamson",
+            "grignard-formation",
+            "wurtz"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "aryl",
+          "heading": "Haloarenes",
+          "notesPresent": true,
+          "reactions": [
+            "chlorobenzene-hydrolysis",
+            "fittig",
+            "wurtz-fittig"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "facts",
+          "heading": "Uses & environmental facts",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "traps",
+          "heading": "Exceptions & traps",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        }
+      ],
+      "qualityChecks": {
+        "chapterMap": true,
+        "prerequisiteLinks": "present",
+        "reactions": "bundled-where-applicable",
+        "trends": "present",
+        "exceptions": "present",
+        "readinessChecklist": 16,
+        "allSyllabusPointsIndividuallyMapped": false,
+        "allNcertSubsectionsAccountedFor": false,
+        "majorPyqsAudited": false,
+        "independentChemistryReview": false
+      },
+      "complete": false
+    },
+    {
+      "id": "alcohols",
+      "title": "Alcohols, Phenols & Ethers",
+      "exam": [
+        "JEE Main",
+        "JEE Advanced"
+      ],
+      "coverage": [
+        {
+          "sectionId": "classification",
+          "heading": "Classification, names & properties",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "preparation",
+          "heading": "Preparation toolkit",
+          "notesPresent": true,
+          "reactions": [
+            "alkene-hydration",
+            "hydroboration",
+            "halo-hydrolysis",
+            "carbonyl-nabh4",
+            "grignard-carbonyl",
+            "acid-lah",
+            "ester-lah",
+            "chlorobenzene-hydrolysis",
+            "cumene",
+            "diazonium-oh",
+            "williamson",
+            "ether-dehydration"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "alcohol-reactions",
+          "heading": "Alcohol reactions & identification",
+          "notesPresent": true,
+          "reactions": [
+            "alcohol-sodium",
+            "alcohol-socl2",
+            "alcohol-hx",
+            "dehydration",
+            "alcohol-pcc",
+            "alcohol-dichromate",
+            "secondary-oxidation",
+            "esterification",
+            "ether-dehydration"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "phenol-acidity",
+          "heading": "Phenol acidity",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "phenol-reactions",
+          "heading": "Phenol reactions",
+          "notesPresent": true,
+          "reactions": [
+            "phenol-bromine",
+            "kolbe-schmitt",
+            "reimer-tiemann",
+            "phenol-zinc",
+            "phenol-oxidation",
+            "aspirin"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "ethers",
+          "heading": "Ethers: synthesis & cleavage",
+          "notesPresent": true,
+          "reactions": [
+            "williamson",
+            "ether-cleavage",
+            "anisole-cleavage"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "facts",
+          "heading": "Factual recall & traps",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        }
+      ],
+      "qualityChecks": {
+        "chapterMap": true,
+        "prerequisiteLinks": "present",
+        "reactions": "bundled-where-applicable",
+        "trends": "in-notes",
+        "exceptions": "present",
+        "readinessChecklist": 18,
+        "allSyllabusPointsIndividuallyMapped": false,
+        "allNcertSubsectionsAccountedFor": false,
+        "majorPyqsAudited": false,
+        "independentChemistryReview": false
+      },
+      "complete": false
+    },
+    {
+      "id": "carbonyls",
+      "title": "Aldehydes & Ketones",
+      "exam": [
+        "JEE Main",
+        "JEE Advanced"
+      ],
+      "coverage": [
+        {
+          "sectionId": "structure",
+          "heading": "Structure, names & physical properties",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "preparation",
+          "heading": "Preparation methods",
+          "notesPresent": true,
+          "reactions": [
+            "alcohol-pcc",
+            "secondary-oxidation",
+            "ozonolysis",
+            "alkyne-hydration",
+            "rosenmund",
+            "stephen",
+            "dibal",
+            "etard",
+            "gattermann-koch",
+            "friedel-acyl",
+            "nitrile-grignard"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "addition",
+          "heading": "Nucleophilic addition & condensation",
+          "notesPresent": true,
+          "reactions": [
+            "cyanohydrin",
+            "bisulfite",
+            "oxime",
+            "hydrazone",
+            "acetal",
+            "imine",
+            "grignard-carbonyl"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "oxidation-reduction",
+          "heading": "Oxidation & reduction",
+          "notesPresent": true,
+          "reactions": [
+            "carbonyl-nabh4",
+            "tollens",
+            "clemmensen",
+            "wolff-kishner"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "alpha",
+          "heading": "α-H, aldol, Cannizzaro & haloform",
+          "notesPresent": true,
+          "reactions": [
+            "aldol",
+            "cannizzaro",
+            "haloform"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "tests",
+          "heading": "Tests & exceptions",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "traps",
+          "heading": "Conversion traps",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        }
+      ],
+      "qualityChecks": {
+        "chapterMap": true,
+        "prerequisiteLinks": "present",
+        "reactions": "bundled-where-applicable",
+        "trends": "present",
+        "exceptions": "present",
+        "readinessChecklist": 19,
+        "allSyllabusPointsIndividuallyMapped": false,
+        "allNcertSubsectionsAccountedFor": false,
+        "majorPyqsAudited": false,
+        "independentChemistryReview": false
+      },
+      "complete": false
+    },
+    {
+      "id": "acids",
+      "title": "Carboxylic Acids & Derivatives",
+      "exam": [
+        "JEE Main",
+        "JEE Advanced"
+      ],
+      "coverage": [
+        {
+          "sectionId": "classification",
+          "heading": "Names & physical properties",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "preparation",
+          "heading": "Preparation routes",
+          "notesPresent": true,
+          "reactions": [
+            "alcohol-dichromate",
+            "sidechain-oxidation",
+            "nitrile-hydrolysis",
+            "grignard-co2",
+            "ester-hydrolysis",
+            "amide-hydrolysis"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "acidity",
+          "heading": "Acid-strength comparisons",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "reactions",
+          "heading": "Acid reactions",
+          "notesPresent": true,
+          "reactions": [
+            "esterification",
+            "acid-chloride",
+            "amide-formation",
+            "acid-lah",
+            "hvh",
+            "soda-lime",
+            "kolbe-electrolysis"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "derivatives",
+          "heading": "Nucleophilic acyl substitution",
+          "notesPresent": true,
+          "reactions": [
+            "ester-hydrolysis",
+            "amide-hydrolysis",
+            "ester-lah",
+            "amide-reduction",
+            "hofmann",
+            "rosenmund",
+            "dibal"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "traps",
+          "heading": "Carbon accounting & exceptions",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        }
+      ],
+      "qualityChecks": {
+        "chapterMap": true,
+        "prerequisiteLinks": "present",
+        "reactions": "bundled-where-applicable",
+        "trends": "in-notes",
+        "exceptions": "present",
+        "readinessChecklist": 16,
+        "allSyllabusPointsIndividuallyMapped": false,
+        "allNcertSubsectionsAccountedFor": false,
+        "majorPyqsAudited": false,
+        "independentChemistryReview": false
+      },
+      "complete": false
+    },
+    {
+      "id": "amines",
+      "title": "Amines",
+      "exam": [
+        "JEE Main",
+        "JEE Advanced"
+      ],
+      "coverage": [
+        {
+          "sectionId": "classification",
+          "heading": "Classification & nomenclature",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "preparation",
+          "heading": "Preparation methods",
+          "notesPresent": true,
+          "reactions": [
+            "nitro-reduction",
+            "ammonolysis",
+            "nitrile-reduction",
+            "amide-reduction",
+            "gabriel",
+            "hofmann"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "physical",
+          "heading": "Physical properties",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "basicity",
+          "heading": "Basicity: explicitly include the medium",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "reactions",
+          "heading": "Alkylation, acylation & identification",
+          "notesPresent": true,
+          "reactions": [
+            "amine-acylation",
+            "carbylamine"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "nitrous",
+          "heading": "Nitrous acid: distinguish amine classes",
+          "notesPresent": true,
+          "reactions": [
+            "diazotization"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "aromatic",
+          "heading": "Aniline: aromatic substitution & protection",
+          "notesPresent": true,
+          "reactions": [
+            "aniline-bromine",
+            "amine-acylation"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "traps",
+          "heading": "Exceptions & traps",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        }
+      ],
+      "qualityChecks": {
+        "chapterMap": true,
+        "prerequisiteLinks": "present",
+        "reactions": "bundled-where-applicable",
+        "trends": "present",
+        "exceptions": "present",
+        "readinessChecklist": 19,
+        "allSyllabusPointsIndividuallyMapped": false,
+        "allNcertSubsectionsAccountedFor": false,
+        "majorPyqsAudited": false,
+        "independentChemistryReview": false
+      },
+      "complete": false
+    },
+    {
+      "id": "diazonium",
+      "title": "Diazonium Salts",
+      "exam": [
+        "JEE Main",
+        "JEE Advanced"
+      ],
+      "coverage": [
+        {
+          "sectionId": "formation",
+          "heading": "Formation & structure",
+          "notesPresent": true,
+          "reactions": [
+            "diazotization"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "replacements",
+          "heading": "Reactions releasing nitrogen",
+          "notesPresent": true,
+          "reactions": [
+            "sandmeyer-cl",
+            "sandmeyer-br",
+            "sandmeyer-cn",
+            "gattermann",
+            "diazonium-i",
+            "balz-schiemann",
+            "diazonium-oh",
+            "diazonium-h",
+            "diazonium-nitro"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "coupling",
+          "heading": "Azo coupling",
+          "notesPresent": true,
+          "reactions": [
+            "azo-phenol",
+            "azo-aniline"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "conversions",
+          "heading": "Conversion planning",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "traps",
+          "heading": "Retention versus replacement",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        }
+      ],
+      "qualityChecks": {
+        "chapterMap": true,
+        "prerequisiteLinks": "present",
+        "reactions": "bundled-where-applicable",
+        "trends": "in-notes",
+        "exceptions": "present",
+        "readinessChecklist": 14,
+        "allSyllabusPointsIndividuallyMapped": false,
+        "allNcertSubsectionsAccountedFor": false,
+        "majorPyqsAudited": false,
+        "independentChemistryReview": false
+      },
+      "complete": false
+    },
+    {
+      "id": "biomolecules",
+      "title": "Biomolecules",
+      "exam": [
+        "JEE Main",
+        "JEE Advanced"
+      ],
+      "coverage": [
+        {
+          "sectionId": "classification",
+          "heading": "Carbohydrate classification",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "sugars",
+          "heading": "Glucose, fructose & anomers",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "di-poly",
+          "heading": "Disaccharides & polysaccharides",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "proteins",
+          "heading": "Amino acids & protein structure",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "nucleic",
+          "heading": "DNA & RNA",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "vitamins",
+          "heading": "Vitamins & hormones",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "traps",
+          "heading": "Factual traps",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        }
+      ],
+      "qualityChecks": {
+        "chapterMap": true,
+        "prerequisiteLinks": "present",
+        "reactions": "bundled-where-applicable",
+        "trends": "present",
+        "exceptions": "present",
+        "readinessChecklist": 20,
+        "allSyllabusPointsIndividuallyMapped": false,
+        "allNcertSubsectionsAccountedFor": false,
+        "majorPyqsAudited": false,
+        "independentChemistryReview": false
+      },
+      "complete": false
+    },
+    {
+      "id": "polymers",
+      "title": "Polymers",
+      "exam": [
+        "JEE Advanced"
+      ],
+      "coverage": [
+        {
+          "sectionId": "classification",
+          "heading": "Polymer classification",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "addition",
+          "heading": "Addition polymers & monomers",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "condensation",
+          "heading": "Condensation polymers",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "rubber",
+          "heading": "Rubber, vulcanization & biodegradability",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "traps",
+          "heading": "Classification traps",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        }
+      ],
+      "qualityChecks": {
+        "chapterMap": true,
+        "prerequisiteLinks": "present",
+        "reactions": "bundled-where-applicable",
+        "trends": "present",
+        "exceptions": "present",
+        "readinessChecklist": 13,
+        "allSyllabusPointsIndividuallyMapped": false,
+        "allNcertSubsectionsAccountedFor": false,
+        "majorPyqsAudited": false,
+        "independentChemistryReview": false
+      },
+      "complete": false
+    },
+    {
+      "id": "everyday",
+      "title": "Chemistry in Everyday Life",
+      "exam": [
+        "JEE Advanced"
+      ],
+      "coverage": [
+        {
+          "sectionId": "targets",
+          "heading": "Drug targets & classification",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "classes",
+          "heading": "Therapeutic classes & examples",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "food",
+          "heading": "Artificial sweeteners & food additives",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "cleansing",
+          "heading": "Soaps, detergents & cleansing",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "traps",
+          "heading": "Terminology traps",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        }
+      ],
+      "qualityChecks": {
+        "chapterMap": true,
+        "prerequisiteLinks": "present",
+        "reactions": "bundled-where-applicable",
+        "trends": "present",
+        "exceptions": "present",
+        "readinessChecklist": 13,
+        "allSyllabusPointsIndividuallyMapped": false,
+        "allNcertSubsectionsAccountedFor": false,
+        "majorPyqsAudited": false,
+        "independentChemistryReview": false
+      },
+      "complete": false
+    },
+    {
+      "id": "practical",
+      "title": "Practical Organic Chemistry",
+      "exam": [
+        "JEE Main",
+        "JEE Advanced"
+      ],
+      "coverage": [
+        {
+          "sectionId": "purification",
+          "heading": "Purification & characterization",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "elements",
+          "heading": "Element detection: reasoning & observations",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "quantitative",
+          "heading": "Quantitative analysis & formula calculation",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "functional",
+          "heading": "Functional-group tests",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "preparations",
+          "heading": "Required preparation chemistry",
+          "notesPresent": true,
+          "reactions": [
+            "amine-acylation",
+            "azo-aniline",
+            "haloform"
+          ],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        },
+        {
+          "sectionId": "traps",
+          "heading": "Interpretation & scope",
+          "notesPresent": true,
+          "reactions": [],
+          "sourceCheck": "pending-exhaustive-subsection-review"
+        }
+      ],
+      "qualityChecks": {
+        "chapterMap": true,
+        "prerequisiteLinks": "present",
+        "reactions": "bundled-where-applicable",
+        "trends": "present",
+        "exceptions": "present",
+        "readinessChecklist": 17,
+        "allSyllabusPointsIndividuallyMapped": false,
+        "allNcertSubsectionsAccountedFor": false,
+        "majorPyqsAudited": false,
+        "independentChemistryReview": false
+      },
+      "complete": false
+    }
+  ]
+}
